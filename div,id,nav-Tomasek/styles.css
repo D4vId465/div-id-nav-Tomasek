@@ -1,0 +1,19 @@
+#blue {
+    text-align: center;
+    color: blue;
+}
+#oblique {
+    font-style: oblique;
+}
+#times_new_roman {
+    font-family: 'Times New Roman', Times, serif;
+}
+#yellow {
+    color: yellow;
+}
+#black {
+    background-color: black;
+}
+#red {
+    color: red;
+}
